@@ -1,0 +1,41 @@
+.date{
+	color: #3498db;
+	text-transform: uppercase;
+}
+
+body{
+	font-family: Source Sans Pro;
+}
+
+table{
+	border: 15px solid #bdc3c7;
+	width: 66%;
+	margin: 0 auto;
+}
+
+h2{
+	font-size: 1.6em;
+	color: #2c3e50;
+}
+
+td{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.post{
+	border-left: 2px solid #2c3e50;
+	padding-left: 3px;
+}
+
+hr{
+	color:grey;
+}
+h1{
+	font-family: Source Sans Pro;
+	margin: center;
+	text-align: center;
+}
+.nerd{
+	width: 300px;
+}
